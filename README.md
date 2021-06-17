@@ -4,5 +4,5 @@
 
 Referência bibliográfica: [MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-![Alt text](E:\Documentos\2021\JavaScript/js-symbol.png)
+![Alt](E:\Documentos\2021\JavaScript/js-symbol.png)
 
