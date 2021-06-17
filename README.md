@@ -1,8 +1,10 @@
+![](https://1.bp.blogspot.com/-rmu6M48TT04/YMq2m3JwJ5I/AAAAAAAAA80/1eqx2bDvRSADhIQ8Q44rDjXsyye_GeosgCLcBGAsYHQ/s2335/JavaScript.png)
+
 ### Linguagem JavaScript
 
 ​	JavaScript é uma linguagem de programação que permite a você implementar itens complexos em páginas web — toda vez que uma página da web faz mais do que simplesmente mostrar a você informação estática — mostrando conteúdo que se atualiza em um intervalo de tempo, mapas interativos ou gráficos 2D/3D animados, etc. — você pode apostar que o JavaScript provavelmente está envolvido. É a terceira camada do bolo das tecnologias padrões da web, duas das quais ([HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML) e [CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)) nós falamos com muito mais detalhes em outras partes da Área de Aprendizado.
 
 Referência bibliográfica: [MDN](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 
-![](https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg)
+
 
